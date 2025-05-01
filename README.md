@@ -6,6 +6,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Itapetini
 
 ## 💻 Tecnologias que utilizo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
+          
           
           
           
@@ -13,12 +15,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Itapetini
           
 
 ## 📫 Contato
-
-- ✉️ Gmail: [seuemail@gmail.com](mailto:seuemail@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/seuusuario)
-- 🕹️ Discord: seuNome#1234
+<div>
+<a href = "mailto:otaviocarrascaldev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/otaviocarrascal/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ---
 
-> "A tecnologia move o mundo." – Steve Jobs
 
