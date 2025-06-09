@@ -15,7 +15,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Itapetini
           
 
 ## 📫 Contato
-- ✉️ Gmail: [otaviocarrascadev@gmail.com](mailto:otaviocarrascaldev@gmail.com)
+- ✉️ Gmail: [otaviocarrascaldev@gmail.com](mailto:otaviocarrascaldev@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/otaviocarrascal](https://www.linkedin.com/in/otaviocarrascal/)
 - 🕹️ Discord: tavozye
 
